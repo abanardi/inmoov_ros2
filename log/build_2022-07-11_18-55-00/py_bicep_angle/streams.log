@@ -1,0 +1,22 @@
+[0.916s] Invoking command in '/home/abanardi/Documents/ros_workspaces/inmoov_workspace/src/py_bicep_angle': PYTHONPATH=/home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_bicep_angle build --build-base /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build install --prefix /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle --record /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/install.log --single-version-externally-managed
+[1.226s] running egg_info
+[1.227s] writing ../../build/py_bicep_angle/py_bicep_angle.egg-info/PKG-INFO
+[1.227s] writing dependency_links to ../../build/py_bicep_angle/py_bicep_angle.egg-info/dependency_links.txt
+[1.227s] writing entry points to ../../build/py_bicep_angle/py_bicep_angle.egg-info/entry_points.txt
+[1.228s] writing requirements to ../../build/py_bicep_angle/py_bicep_angle.egg-info/requires.txt
+[1.228s] writing top-level names to ../../build/py_bicep_angle/py_bicep_angle.egg-info/top_level.txt
+[1.284s] reading manifest file '../../build/py_bicep_angle/py_bicep_angle.egg-info/SOURCES.txt'
+[1.285s] writing manifest file '../../build/py_bicep_angle/py_bicep_angle.egg-info/SOURCES.txt'
+[1.285s] running build
+[1.286s] running build_py
+[1.286s] running install
+[1.287s] running install_lib
+[1.289s] running install_data
+[1.289s] running install_egg_info
+[1.292s] removing '/home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle-0.0.0-py3.8.egg-info' (and everything under it)
+[1.292s] Copying ../../build/py_bicep_angle/py_bicep_angle.egg-info to /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle-0.0.0-py3.8.egg-info
+[1.293s] running install_scripts
+[1.317s] Installing listener script to /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/py_bicep_angle
+[1.317s] Installing talker script to /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/py_bicep_angle
+[1.317s] writing list of installed files to '/home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/install.log'
+[1.348s] Invoked command in '/home/abanardi/Documents/ros_workspaces/inmoov_workspace/src/py_bicep_angle' returned '0': PYTHONPATH=/home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_bicep_angle build --build-base /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build install --prefix /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle --record /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/install.log --single-version-externally-managed

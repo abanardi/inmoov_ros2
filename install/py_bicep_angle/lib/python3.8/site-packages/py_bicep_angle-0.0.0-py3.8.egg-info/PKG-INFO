@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: py-bicep-angle
+Version: 0.0.0
+Summary: Calculates and sends bicep angles using OpenCv in Python
+Home-page: UNKNOWN
+Maintainer: Andrew Banardi
+Maintainer-email: abanardi0@gmail.com
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN

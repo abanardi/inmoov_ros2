@@ -1,0 +1,6 @@
+source;share/py_bicep_angle/hook/pythonpath.ps1
+source;share/py_bicep_angle/hook/pythonpath.dsv
+source;share/py_bicep_angle/hook/pythonpath.sh
+source;share/py_bicep_angle/hook/ament_prefix_path.ps1
+source;share/py_bicep_angle/hook/ament_prefix_path.dsv
+source;share/py_bicep_angle/hook/ament_prefix_path.sh

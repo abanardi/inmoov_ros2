@@ -1,0 +1,41 @@
+[0.894s] Invoking command in '/home/abanardi/Documents/ros_workspaces/inmoov_workspace/src/py_bicep_angle': PYTHONPATH=/home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_bicep_angle build --build-base /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build install --prefix /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle --record /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/install.log --single-version-externally-managed
+[1.203s] running egg_info
+[1.203s] creating ../../build/py_bicep_angle/py_bicep_angle.egg-info
+[1.204s] writing ../../build/py_bicep_angle/py_bicep_angle.egg-info/PKG-INFO
+[1.205s] writing dependency_links to ../../build/py_bicep_angle/py_bicep_angle.egg-info/dependency_links.txt
+[1.205s] writing entry points to ../../build/py_bicep_angle/py_bicep_angle.egg-info/entry_points.txt
+[1.205s] writing requirements to ../../build/py_bicep_angle/py_bicep_angle.egg-info/requires.txt
+[1.206s] writing top-level names to ../../build/py_bicep_angle/py_bicep_angle.egg-info/top_level.txt
+[1.206s] writing manifest file '../../build/py_bicep_angle/py_bicep_angle.egg-info/SOURCES.txt'
+[1.258s] reading manifest file '../../build/py_bicep_angle/py_bicep_angle.egg-info/SOURCES.txt'
+[1.259s] writing manifest file '../../build/py_bicep_angle/py_bicep_angle.egg-info/SOURCES.txt'
+[1.259s] running build
+[1.259s] running build_py
+[1.259s] creating /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build
+[1.260s] creating /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib
+[1.260s] creating /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib/py_bicep_angle
+[1.260s] copying py_bicep_angle/angle_subscriber.py -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib/py_bicep_angle
+[1.260s] copying py_bicep_angle/angle_publisher.py -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib/py_bicep_angle
+[1.261s] copying py_bicep_angle/__init__.py -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib/py_bicep_angle
+[1.261s] running install
+[1.261s] running install_lib
+[1.263s] creating /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle
+[1.263s] copying /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib/py_bicep_angle/angle_subscriber.py -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle
+[1.263s] copying /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib/py_bicep_angle/angle_publisher.py -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle
+[1.263s] copying /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build/lib/py_bicep_angle/__init__.py -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle
+[1.264s] byte-compiling /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle/angle_subscriber.py to angle_subscriber.cpython-38.pyc
+[1.266s] byte-compiling /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle/angle_publisher.py to angle_publisher.cpython-38.pyc
+[1.266s] byte-compiling /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle/__init__.py to __init__.cpython-38.pyc
+[1.266s] running install_data
+[1.267s] creating /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/share/ament_index
+[1.268s] creating /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/share/ament_index/resource_index
+[1.268s] creating /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/share/ament_index/resource_index/packages
+[1.268s] copying resource/py_bicep_angle -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/share/ament_index/resource_index/packages
+[1.268s] copying package.xml -> /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/share/py_bicep_angle
+[1.268s] running install_egg_info
+[1.270s] Copying ../../build/py_bicep_angle/py_bicep_angle.egg-info to /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages/py_bicep_angle-0.0.0-py3.8.egg-info
+[1.271s] running install_scripts
+[1.294s] Installing listener script to /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/py_bicep_angle
+[1.294s] Installing talker script to /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/py_bicep_angle
+[1.294s] writing list of installed files to '/home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/install.log'
+[1.326s] Invoked command in '/home/abanardi/Documents/ros_workspaces/inmoov_workspace/src/py_bicep_angle' returned '0': PYTHONPATH=/home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_bicep_angle build --build-base /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/build install --prefix /home/abanardi/Documents/ros_workspaces/inmoov_workspace/install/py_bicep_angle --record /home/abanardi/Documents/ros_workspaces/inmoov_workspace/build/py_bicep_angle/install.log --single-version-externally-managed

@@ -1,0 +1,4 @@
+[console_scripts]
+listener = py_bicep_angle.angle_subscriber:main
+talker = py_bicep_angle.angle_publisher:main
+
